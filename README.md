@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left" style="padding:10px 10px 10px 10px"> <img src="https://github-readme-stats.vercel.app/api?username=kirtijain6272&show_icons=true&theme=synthwave" alt="kirtijain627" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kirtijain627&show_icons=true&theme=synthwave" alt="kirtijain627" /></p>
+<p align="left" style="padding:10px 10px 10px 10px"> <img src="https://github-readme-stats.vercel.app/api?username=kirtijain627&show_icons=true&theme=synthwave" alt="kirtijain627" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kirtijain627&show_icons=true&theme=synthwave" alt="kirtijain627" /></p>
